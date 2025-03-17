@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Adarsh Jagadish",
+    "location": "Thrissur, Kerala"
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "location": "New York, USA"
+  },
+  {
+    "id": 3,
+    "name": "Jane Smith",
+    "location": "London, UK"
+  },
+  {
+    "id": 4,
+    "name": "Rahul Nair",
+    "location": "Mumbai, India"
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "location": "Toronto, Canada"
+  },
+  {
+    "id": 6,
+    "name": "Liam Brown",
+    "location": "Sydney, Australia"
+  },
+  {
+    "id": 7,
+    "name": "Sophia Martinez",
+    "location": "Madrid, Spain"
+  },
+  {
+    "id": 8,
+    "name": "Chen Wei",
+    "location": "Beijing, China"
+  },
+  {
+    "id": 9,
+    "name": "Ahmed Ali",
+    "location": "Dubai, UAE"
+  },
+  {
+    "id": 10,
+    "name": "Olga Petrov",
+    "location": "Moscow, Russia"
+  }
+]

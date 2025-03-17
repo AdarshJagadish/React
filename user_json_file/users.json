@@ -1,0 +1,245 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Al-Rayhan",
+        "email": "alrayhan@example.com",
+        "age": 28,
+        "location": "Kozhikode, Kerala",
+        "phone": "+91-98456-10001"
+      },
+      {
+        "id": "2",
+        "name": "Al-Farhan",
+        "email": "alfarhan@example.com",
+        "age": 25,
+        "location": "Thrissur, Kerala",
+        "phone": "+91-98456-10002"
+      },
+      {
+        "id": "3",
+        "name": "Al-Rameez",
+        "email": "alrameez@example.com",
+        "age": 30,
+        "location": "Ernakulam, Kerala",
+        "phone": "+91-98456-10003"
+      },
+      {
+        "id": "4",
+        "name": "Al-Zayan",
+        "email": "alzayan@example.com",
+        "age": 26,
+        "location": "Malappuram, Kerala",
+        "phone": "+91-98456-10004"
+      },
+      {
+        "id": "5",
+        "name": "Al-Nihal",
+        "email": "alnihal@example.com",
+        "age": 24,
+        "location": "Palakkad, Kerala",
+        "phone": "+91-98456-10005"
+      },
+      {
+        "id": "6",
+        "name": "Al-Haider",
+        "email": "alhaider@example.com",
+        "age": 27,
+        "location": "Kannur, Kerala",
+        "phone": "+91-98456-10006"
+      },
+      {
+        "id": "7",
+        "name": "Al-Yusuf",
+        "email": "alyusuf@example.com",
+        "age": 29,
+        "location": "Kottayam, Kerala",
+        "phone": "+91-98456-10007"
+      },
+      {
+        "id": "8",
+        "name": "Al-Tariq",
+        "email": "altariq@example.com",
+        "age": 23,
+        "location": "Alappuzha, Kerala",
+        "phone": "+91-98456-10008"
+      },
+      {
+        "id": "9",
+        "name": "Al-Sahil",
+        "email": "alsahil@example.com",
+        "age": 22,
+        "location": "Kasaragod, Kerala",
+        "phone": "+91-98456-10009"
+      },
+      {
+        "id": "10",
+        "name": "Al-Shahbaz",
+        "email": "alshahbaz@example.com",
+        "age": 21,
+        "location": "Idukki, Kerala",
+        "phone": "+91-98456-10010"
+      },
+      {
+        "id": "11",
+        "name": "Al-Rizwan",
+        "email": "alrizwan@example.com",
+        "age": 24,
+        "location": "Wayanad, Kerala",
+        "phone": "+91-98456-10011"
+      },
+      {
+        "id": "12",
+        "name": "Al-Sufyan",
+        "email": "alsufyan@example.com",
+        "age": 26,
+        "location": "Pathanamthitta, Kerala",
+        "phone": "+91-98456-10012"
+      },
+      {
+        "id": "13",
+        "name": "Al-Naseem",
+        "email": "alnaseem@example.com",
+        "age": 28,
+        "location": "Kollam, Kerala",
+        "phone": "+91-98456-10013"
+      },
+      {
+        "id": "14",
+        "name": "Al-Khalid",
+        "email": "alkhalid@example.com",
+        "age": 27,
+        "location": "Varkala, Kerala",
+        "phone": "+91-98456-10014"
+      },
+      {
+        "id": "15",
+        "name": "Al-Irfan",
+        "email": "alirfan@example.com",
+        "age": 29,
+        "location": "Changanassery, Kerala",
+        "phone": "+91-98456-10015"
+      },
+      {
+        "id": "16",
+        "name": "Al-Tameem",
+        "email": "altameem@example.com",
+        "age": 23,
+        "location": "Nedumangad, Kerala",
+        "phone": "+91-98456-10016"
+      },
+      {
+        "id": "17",
+        "name": "Al-Haris",
+        "email": "alharis@example.com",
+        "age": 22,
+        "location": "Perinthalmanna, Kerala",
+        "phone": "+91-98456-10017"
+      },
+      {
+        "id": "18",
+        "name": "Al-Faheem",
+        "email": "alfaheem@example.com",
+        "age": 25,
+        "location": "Ottapalam, Kerala",
+        "phone": "+91-98456-10018"
+      },
+      {
+        "id": "19",
+        "name": "Al-Saif",
+        "email": "alsaif@example.com",
+        "age": 30,
+        "location": "Ponnani, Kerala",
+        "phone": "+91-98456-10019"
+      },
+      {
+        "id": "20",
+        "name": "Al-Jameel",
+        "email": "aljameel@example.com",
+        "age": 21,
+        "location": "Kunnamkulam, Kerala",
+        "phone": "+91-98456-10020"
+      },
+      {
+        "id": "21",
+        "name": "Al-Nihal",
+        "email": "alnihal2@example.com",
+        "age": 28,
+        "location": "Cherthala, Kerala",
+        "phone": "+91-98456-10021"
+      },
+      {
+        "id": "22",
+        "name": "Al-Kareem",
+        "email": "alkareem@example.com",
+        "age": 29,
+        "location": "Manjeri, Kerala",
+        "phone": "+91-98456-10022"
+      },
+      {
+        "id": "23",
+        "name": "Al-Fazil",
+        "email": "alfazil@example.com",
+        "age": 27,
+        "location": "Mavelikkara, Kerala",
+        "phone": "+91-98456-10023"
+      },
+      {
+        "id": "24",
+        "name": "Al-Amin",
+        "email": "alamin@example.com",
+        "age": 22,
+        "location": "Thalassery, Kerala",
+        "phone": "+91-98456-10024"
+      },
+      {
+        "id": "25",
+        "name": "Al-Hashim",
+        "email": "alhashim@example.com",
+        "age": 26,
+        "location": "Kottakkal, Kerala",
+        "phone": "+91-98456-10025"
+      },
+      {
+        "id": "26",
+        "name": "Al-Wasi",
+        "email": "alwasi@example.com",
+        "age": 24,
+        "location": "Kayamkulam, Kerala",
+        "phone": "+91-98456-10026"
+      },
+      {
+        "id": "27",
+        "name": "Al-Hameed",
+        "email": "alhameed@example.com",
+        "age": 30,
+        "location": "Kodungallur, Kerala",
+        "phone": "+91-98456-10027"
+      },
+      {
+        "id": "28",
+        "name": "Al-Nasir",
+        "email": "alnasir@example.com",
+        "age": 23,
+        "location": "Aluva, Kerala",
+        "phone": "+91-98456-10028"
+      },
+      {
+        "id": "29",
+        "name": "Al-Majeed",
+        "email": "almajeed@example.com",
+        "age": 21,
+        "location": "Pala, Kerala",
+        "phone": "+91-98456-10029"
+      },
+      {
+        "id": "30",
+        "name": "Al-Sami",
+        "email": "alsami@example.com",
+        "age": 22,
+        "location": "Kozhikode, Kerala",
+        "phone": "+91-98456-10030"
+      }
+    ]
+  }
+  

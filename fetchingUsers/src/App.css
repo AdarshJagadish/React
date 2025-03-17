@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+td,th {
+  border: 2px;
+  border-style: solid;
+  border-color: rgb(88, 88, 88);
+}
+
+.id {
+  width: 30px;
+}
+.name {
+  width: 120px;
+}
+.place {
+  width: 150px;
+}
